@@ -18,8 +18,8 @@
 		"description": "DW BP!",
 		"min_engine_version": [
 			1,
-			17,
-			0
+			19,
+			50
 		],
 		"uuid": "29319890-07d3-434a-b9d3-54e34b22085d",
 		"version": [
