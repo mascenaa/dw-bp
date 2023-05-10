@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"ESPM"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.13"
+			],
+			"dash": [
+				"0.8.18"
+			]
+		}
+	},
+	"header": {
+		"name": "DW BP",
+		"description": "DW BP!",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "29319890-07d3-434a-b9d3-54e34b22085d",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8ee31d35-85bf-43ae-95b3-ec92652a4969",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
